@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kinetic Illusion
+* source:	https://sketchfab.com/3d-models/kinetic-illusion-d139f488b8ac4e56825b9e99316da418
+* author:	trinityscsp (https://sketchfab.com/trinityscsp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kinetic Illusion" (https://sketchfab.com/3d-models/kinetic-illusion-d139f488b8ac4e56825b9e99316da418) by trinityscsp (https://sketchfab.com/trinityscsp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
